@@ -1,2 +1,2 @@
 # Login-portal-design
-Login page design using bootstrap
+Mobile responsive login page design using bootstrap
